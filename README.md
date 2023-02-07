@@ -56,7 +56,7 @@ ffmpeg -y \
   -c:v libx264 -pix_fmt yuv420p -c:a aac wallowastory.mp4
 ```
 
-Clearly, creating this command by hand for 279 slides, each of which are on screen for varying lengths of time, was a non-starter. Therefore, we turned to Python and, in the proud tradition of the Wallowa History Center, we started with a spreadsheet.
+Writing this command by hand for 279 slides, each of which are on screen for varying lengths of time, was clearly a non-starter. We therefore turned to Python and, in the proud tradition of the Wallowa History Center, started with a spreadsheet.
 
 First, we created a `slides.csv` file that contained one row per slide image, with the following columns:
 
