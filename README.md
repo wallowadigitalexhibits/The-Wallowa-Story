@@ -73,7 +73,7 @@ The resulting mp4 video was uploaded to YouTube.
 
 ### Building the Website
 
-The website uses the Carnivale Freakshow, DMSans, and EduSABeginner fonts, all of which are licensed for use without conditions. 
+The website uses the Carnivale Freakshow and EduSABeginner fonts, both of which are licensed for use without conditions. 
 
 The intent of the website was to make a resource that could be cited by scholars. To that end, we provided the video, the audio mp3, the transcript, and a table of the annotated slides.
 
