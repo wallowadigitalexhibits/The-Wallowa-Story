@@ -28,7 +28,7 @@ Armed with the mp3 audio, the text transcription, and a set of jpg images, we tu
 
 ### Building the Video with FFMPEG
 
-The following is an example of a valid ffmpeg command, running on Linux Mint 18, with which we created a video out of the first ten slides. 
+We constructed the following ffmpeg command and created a video out of the first ten slides, each appearing on the screen for six seconds each. All preparation work was done on a laptop running Linux Mint 18. 
 
 ```
 ffmpeg -y \
