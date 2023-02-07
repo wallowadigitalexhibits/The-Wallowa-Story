@@ -2,6 +2,8 @@
 
 This short film, restored from a narrated slide presentation from 1987, tells the history of Wallowa County.
 
+<img src="https://github.com/wallowadigitalexhibits/the-wallowa-story/blob/main/site/img/wallowastory001.jpg" width="300">
+
 ## Introduction
 
 The Wallowa Story was originally created in honor of Wallowa County's first centennial birthday in 1987. Working with both contemporary and historical photographs, a group of local historians developed 279 slides, wrote a 47-minute narrative, and commissioned local KWVR radio announcer Dave Nelson to record an audio cassette.
