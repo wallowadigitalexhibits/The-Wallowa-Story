@@ -87,7 +87,7 @@ Once we felt we'd captured that information, we imported that spreadsheet using 
 
 &raquo; <a href="genannotatedtable.py">genannotatedtable.py</a>
 
-## Preparing Images for the Annotated Table
+### Preparing Images for the Annotated Table
 
 We wanted all 279 slides to be searchable with Ctrl+F in the browser on one page, so we shrunk the slide images down using ImageMagick and added the `loading="lazy"` attribute to the HTML page. The total image load still ends up being 55MB, but the captions slow down the reader's scrolling and the page is very usable. 
 
