@@ -2,7 +2,7 @@
 
 This short film, restored from a narrated slide presentation from 1987, tells the history of Wallowa County.
 
-<img src="https://github.com/wallowadigitalexhibits/the-wallowa-story/blob/main/site/img/wallowastory001.jpg" width="300">
+<img src="https://github.com/wallowadigitalexhibits/The-Wallowa-Story/blob/main/site/img/wallowastory001.jpg" width="300">
 
 ## Introduction
 
